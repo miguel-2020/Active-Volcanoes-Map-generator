@@ -12,7 +12,8 @@ Only highly elevated volcanoes will appear.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1296" alt="demo" src="https://github.com/miguel-2020/Active-Volcanoes-Map-generator/assets/56496543/9ceae7e0-06d1-47f1-9a10-6b61c2beca09">
+
 
 
 ## Requirements
