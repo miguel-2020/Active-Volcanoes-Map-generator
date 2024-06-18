@@ -41,3 +41,4 @@ A little intro about the installation using the Command-line interface.
     
 # Active-Volcanoes-Map-generator
 # Active-Volcanoes-Map-generator
+# Active-Volcanoes-Map-generator
