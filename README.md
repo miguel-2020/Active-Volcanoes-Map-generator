@@ -39,7 +39,3 @@ A little intro about the installation using the Command-line interface.
     ❯ python3 app.py   
 
 ```
-    
-# Active-Volcanoes-Map-generator
-# Active-Volcanoes-Map-generator
-# Active-Volcanoes-Map-generator
